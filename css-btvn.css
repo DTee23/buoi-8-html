@@ -1,0 +1,146 @@
+body {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.left {
+    
+    width: 70%;
+    height: 10px;
+    float: left;
+    display: block;
+}
+.border {
+    border: 2px solid rgb(4, 143, 34);
+    height: 30px;
+    margin:  20px;
+    background-color: rgb(215, 255, 224);
+}
+#border {
+    margin: 7px 0 0 20px;
+    font-weight: bold;
+    color: rgb(4, 143, 34);
+}
+.border_1 {
+    border: 2px solid rgb(143, 4, 16);
+    height: 30px;
+    margin:  20px;
+    background-color: rgb(255, 190, 195);
+}
+#border_1 {
+    margin: 7px 0 0 20px;
+    font-weight: bold;
+    color: rgb(143, 4, 16);
+}
+.form {
+    margin: 30px 20px 0px 20px;
+}
+#hr {
+    margin-top: -20px;
+}
+#textcontent {
+    text-align: justify;
+}
+h4 {
+    color: rgb(129, 129, 129);
+    margin-top: 30px;
+}
+#inputform_1 {
+    height: 30px;
+    background-color: rgb(253, 239, 239);
+    border: 1px solid gray;
+    padding-left: 10px;
+    width: 20%;
+}
+#inputform_2 {
+    height: 30px;
+    background-color: rgb(253, 239, 239);
+    border: 1px solid gray;
+    padding-left: 10px;
+    width: 70%;
+}
+#option {
+    width: 20%;
+    height: 30px;
+    padding-left: 10px;
+}
+#submit {
+    background-color: rgb(61, 61, 61);
+    border: 1px solid rgb(61, 61, 61);
+    height: 50px;
+    width: 10%;
+    border-radius: 10px;
+    color: ivory;
+}
+#submit:hover {
+    background-color: lightcoral;
+}
+.tables {
+    margin: 30px 20px 0px 20px;
+}
+#tables {
+    border: 1px solid rgb(61, 61, 61);
+    border-collapse: collapse;
+    width: 100%;
+}
+#tables, th, td {
+    height: 30px;
+}
+#tables, td {
+    padding-left: 10px;
+}
+#th {
+    background-color: lightskyblue;
+}
+#tr_2 {
+    background-color: rgb(253, 239, 239);
+}
+.h1_heading {
+    margin: 30px 20px 0px 20px;
+}
+#quotes {
+    float: left;
+    display: block;
+    width: 5%;
+    margin-top: 13px;
+    margin-left: 20px;
+    
+}
+#quotes_1 {
+    float: right;
+    display: block;
+    text-align: justify;
+    margin-left: 20px;
+    width: 91%;
+    
+}
+.h2_heading {
+    float: left;
+    display: block;
+    margin: 30px 20px 0px 20px;
+}
+#item {
+    color: black;
+}
+
+
+.right {
+    
+    width: 30%;
+    height: 300px;
+    float: left;
+    display: block;
+}
+#border_right {
+    margin: 12px 0 0 20px;
+    font-weight: bold;
+    color: rgb(53, 53, 53);
+}
+.border_right {
+    border: 2px solid rgb(88, 152, 206);
+    height: 40px;
+    margin:  20px;
+    background-color: rgb(190, 226, 255);
+}
+.content_right {
+    margin: 30px 20px 0px 40px;
+}
